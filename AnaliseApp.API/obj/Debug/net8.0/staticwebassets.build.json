@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6UTxKFw65kPFULxMI5REgGMYAKdn7uEh0N1vF4aSRf8=",
+  "Source": "AnaliseApp.API",
+  "BasePath": "_content/AnaliseApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

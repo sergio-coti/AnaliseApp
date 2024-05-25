@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Analise\\AnaliseApp.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8506AA08-7250-4664-856E-55199798E123}|AnaliseApp.API\\AnaliseApp.API.csproj|c:\\analise\\analiseapp.api\\analiseapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506AA08-7250-4664-856E-55199798E123}|AnaliseApp.API\\AnaliseApp.API.csproj|solutionrelative:analiseapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2A0E9A-6BA7-4F02-A628-BDD35B89B511}|AnaliseApp.Infra.Data\\AnaliseApp.Infra.Data.csproj|c:\\analise\\analiseapp.api\\analiseapp.infra.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2A0E9A-6BA7-4F02-A628-BDD35B89B511}|AnaliseApp.Infra.Data\\AnaliseApp.Infra.Data.csproj|solutionrelative:analiseapp.infra.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506AA08-7250-4664-856E-55199798E123}|AnaliseApp.API\\AnaliseApp.API.csproj|c:\\analise\\analiseapp.api\\analiseapp.api\\controllers\\analisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506AA08-7250-4664-856E-55199798E123}|AnaliseApp.API\\AnaliseApp.API.csproj|solutionrelative:analiseapp.api\\controllers\\analisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2A0E9A-6BA7-4F02-A628-BDD35B89B511}|AnaliseApp.Infra.Data\\AnaliseApp.Infra.Data.csproj|c:\\analise\\analiseapp.api\\analiseapp.infra.data\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2A0E9A-6BA7-4F02-A628-BDD35B89B511}|AnaliseApp.Infra.Data\\AnaliseApp.Infra.Data.csproj|solutionrelative:analiseapp.infra.data\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506AA08-7250-4664-856E-55199798E123}|AnaliseApp.API\\AnaliseApp.API.csproj|c:\\analise\\analiseapp.api\\analiseapp.api\\analiseapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8506AA08-7250-4664-856E-55199798E123}|AnaliseApp.API\\AnaliseApp.API.csproj|solutionrelative:analiseapp.api\\analiseapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506AA08-7250-4664-856E-55199798E123}|AnaliseApp.API\\AnaliseApp.API.csproj|c:\\analise\\analiseapp.api\\analiseapp.api\\dtos\\analiseconsultarresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506AA08-7250-4664-856E-55199798E123}|AnaliseApp.API\\AnaliseApp.API.csproj|solutionrelative:analiseapp.api\\dtos\\analiseconsultarresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "AnaliseApp.API\\Program.cs",
+              "ToolTip": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.API\\Program.cs",
+              "RelativeToolTip": "AnaliseApp.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:25:14.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaliseConsultarResponseDTO.cs",
+              "DocumentMoniker": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.API\\DTOs\\AnaliseConsultarResponseDTO.cs",
+              "RelativeDocumentMoniker": "AnaliseApp.API\\DTOs\\AnaliseConsultarResponseDTO.cs",
+              "ToolTip": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.API\\DTOs\\AnaliseConsultarResponseDTO.cs",
+              "RelativeToolTip": "AnaliseApp.API\\DTOs\\AnaliseConsultarResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:23:18.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalisesController.cs",
+              "DocumentMoniker": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.API\\Controllers\\AnalisesController.cs",
+              "RelativeDocumentMoniker": "AnaliseApp.API\\Controllers\\AnalisesController.cs",
+              "ToolTip": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.API\\Controllers\\AnalisesController.cs",
+              "RelativeToolTip": "AnaliseApp.API\\Controllers\\AnalisesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:21:39.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Financeiro.cs",
+              "DocumentMoniker": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.Infra.Data\\Financeiro.cs",
+              "RelativeDocumentMoniker": "AnaliseApp.Infra.Data\\Financeiro.cs",
+              "ToolTip": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.Infra.Data\\Financeiro.cs",
+              "RelativeToolTip": "AnaliseApp.Infra.Data\\Financeiro.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:32:27.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.Infra.Data\\Repository.cs",
+              "RelativeDocumentMoniker": "AnaliseApp.Infra.Data\\Repository.cs",
+              "ToolTip": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.Infra.Data\\Repository.cs",
+              "RelativeToolTip": "AnaliseApp.Infra.Data\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:11:02.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaliseApp.API.csproj",
+              "DocumentMoniker": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.API\\AnaliseApp.API.csproj",
+              "RelativeDocumentMoniker": "AnaliseApp.API\\AnaliseApp.API.csproj",
+              "ToolTip": "C:\\Analise\\AnaliseApp.Api\\AnaliseApp.API\\AnaliseApp.API.csproj",
+              "RelativeToolTip": "AnaliseApp.API\\AnaliseApp.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T20:30:46.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

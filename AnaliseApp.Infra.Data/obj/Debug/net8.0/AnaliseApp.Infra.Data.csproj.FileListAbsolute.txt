@@ -1,0 +1,13 @@
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\bin\Debug\net8.0\AnaliseApp.Infra.Data.deps.json
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\bin\Debug\net8.0\AnaliseApp.Infra.Data.dll
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\bin\Debug\net8.0\AnaliseApp.Infra.Data.pdb
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.csproj.AssemblyReference.cache
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.AssemblyInfoInputs.cache
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.AssemblyInfo.cs
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.sourcelink.json
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.dll
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\refint\AnaliseApp.Infra.Data.dll
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.pdb
+C:\Analise\AnaliseApp.Api\AnaliseApp.Infra.Data\obj\Debug\net8.0\ref\AnaliseApp.Infra.Data.dll
